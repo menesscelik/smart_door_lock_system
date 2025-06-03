@@ -67,4 +67,4 @@ Once a user speaks their name, the system recognizes it using Whisper, then prom
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/menesscelik/IoT.git
+git clone https://github.com/menesscelik/smart_door_lock_system.git
